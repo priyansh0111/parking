@@ -1,4 +1,4 @@
-body {
+body{
   background-image: url('images/c3i.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -20,4 +20,11 @@ body {
 }
 .login-box button{
   margin-top: 8px;
+}
+.form-register{
+  background-color: grey;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 5%;
 }
