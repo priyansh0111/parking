@@ -1,0 +1,23 @@
+body {
+  background-image: url('images/c3i.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.login-box{
+  background-color: white;
+  align-self: auto;
+  width: auto;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 15%;
+  text-align: center;
+}
+.login-box input{
+  width: auto;
+}
+.login-box button{
+  margin-top: 8px;
+}
