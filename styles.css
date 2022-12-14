@@ -21,9 +21,10 @@ body{
 .login-box button{
   margin-top: 8px;
 }
-.form-register{
-  background-color: grey;
+.form-entry{
+  background-color: white;
   text-align: center;
+  margin-top: 5%;
   margin-left: 30%;
   margin-right: 30%;
   padding: 5%;
