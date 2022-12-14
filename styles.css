@@ -4,6 +4,9 @@ body{
   background-attachment: fixed;
   background-size: 100% 100%;
 }
+.navigation a {
+  padding: 8px;
+}
 .login-box{
   background-color: white;
   align-self: auto;
